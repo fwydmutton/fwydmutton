@@ -1,5 +1,5 @@
 # 💫 About Me:
-fwydmutton<br>sup new here and stumbling up<br>🛠 Tech Stack & Tools<br>OS: Linux<br>Web: WordPress (Astra), CSS, HTML5, Godot.<br>Design: Branding, Web Designs and Graphic Designs<br>Interests: Trekking, Simple game building, UI/UX Customization<br>🌲 Current Projects<br>Outdoor Amateurs: Building a community and branding for trekking enthusiasts.<br>Journal Project: Developing a custom-styled WordPress journal with a dark theme aesthetic.<br>Game Dev: Just started, made few easy godot games.
+kunal,<br>sup new here and stumbling up<br>🛠 Tech Stack & Tools<br>OS: Linux<br>Web: WordPress (Astra), CSS, HTML5, Godot.<br>Design: Branding, Web Designs and Graphic Designs<br>Interests: Trekking, Simple game building, UI/UX Customization<br>🌲 Current Projects<br>Outdoor Amateurs: Building a community and branding for trekking enthusiasts.<br>Journal Project: Developing a custom-styled WordPress journal with a dark theme aesthetic.<br>Game Dev: Just started, made few easy godot games.
 
 
 ## 🌐 Socials:
