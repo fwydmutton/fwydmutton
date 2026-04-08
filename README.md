@@ -1,5 +1,7 @@
 # 💫 About Me:
-kunal,<br>sup new here and stumbling up<br>🛠 Tech Stack & Tools<br>OS: Linux<br>Web: WordPress (Astra), CSS, HTML5, Godot.<br>Design: Branding, Web Designs and Graphic Designs<br>Interests: Trekking, Simple game building, UI/UX Customization<br>🌲 Current Projects<br>Outdoor Amateurs: Building a community and branding for trekking enthusiasts.<br>Journal Project: Developing a custom-styled WordPress journal with a dark theme aesthetic.<br>Game Dev: Just started, made few easy godot games.
+kunal,<br>sup new here and stumbling up<br>I’m Kunal, a newbie freelancer who enjoys exploring and building in tech and design. I mainly work on Linux and have been creating websites using WordPress, while gradually learning programming and trying out new ideas along the way. Recently, I’ve started getting into game development, keeping things simple and focusing on learning through small projects.
+
+Alongside development, I’m also really interested in design and branding, especially UI/UX, and I like combining creativity with functionality in whatever I build. I’m still at the beginning of my journey, but I enjoy experimenting, improving my skills, and taking on new challenges that help me grow with every project.
 
 
 ## 🌐 Socials:
