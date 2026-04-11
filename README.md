@@ -1,7 +1,14 @@
 ## Hey! I’m Kunal,
-A beginner freelancer who enjoys exploring and building in tech and design. I mainly work on Linux and create websites using WordPress, while gradually learning programming and experimenting with new ideas. Recently, I’ve started getting into game development, focusing on small projects to build my skills step by step.
+A beginner freelancer exploring tech and design.
 
-Alongside development, I’m also interested in design and branding, especially UI/UX, and I like combining creativity with functionality in everything I build. I’m still at the beginning of my journey, but I’m always experimenting, improving, and taking on new challenges to grow with every project.
+I mainly work on Linux and build websites using WordPress.
+
+
+I am learning programming and experimenting with new ideas.
+
+I recently started game development, focusing on small projects to improve step by step.
+
+Still early in the journey, focused on learning and improving.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fe59d718-3a8f-47c0-848d-fccb97c80850" width="500">
