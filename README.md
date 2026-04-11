@@ -13,7 +13,7 @@ Still early in the journey, focused on learning and improving.
 
 ---
 # 💻 Tech Stack:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,java,javascript,html,cpp,css,python,pygame,wordpress,elementor,vscode,godot,unity,itchio,android,obs,photoshop,lightroom,figma,davinci,canva)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,java,javascript,html,cpp,css,python,pygame,wordpress,elementor,vscode,godot,unity,itchio,android,obs,photoshop,lightroom,figma)
 
 <!-- Snake Game Repo View -->
 <div align="center">
