@@ -1,6 +1,8 @@
 ## Hey! I’m Kunal,
 A beginner freelancer exploring tech and design.
 
+I build and explore things in tech with a focus on simplicity and learning by doing. I work mainly on Linux and enjoy customizing my system and understanding how it works. I create websites using WordPress, HTML, CSS, and JavaScript, keeping them clean, fast, and practical. I am learning programming step by step and build small projects, including games, to improve my skills. I also work with tools like Python, C++, and SQLite when needed. Alongside development, I design simple and clean UI, aiming for a smooth user experience. I like combining code and design to create useful projects and keep improving with each one.
+
 Still early in the journey, focused on learning and improving.
 
 <div align="center">
