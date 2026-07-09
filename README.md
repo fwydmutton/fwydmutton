@@ -18,11 +18,6 @@ Still early in the journey, focused on learning and improving.
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,kde,java,javascript,html,cpp,css,python,pygame,wordpress,elementor,vscode,godot,unity,itchio,android,obs,photoshop,lightroom,figma)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwydmutton&layout=compact&theme=dark" />
-</p>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
